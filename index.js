@@ -1,1 +1,0 @@
-#!/usrn/bin/env node
